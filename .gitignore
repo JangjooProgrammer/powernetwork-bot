@@ -1,0 +1,25 @@
+# Secrets and local config
+.env
+
+# Runtime data (contains real user data, never commit)
+*.db
+*.sqlite3
+*.session
+*.session-journal
+*.log
+
+# Telegram file_ids are specific to one bot, generated per installation
+video_file_ids.json
+voice_file_ids.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
