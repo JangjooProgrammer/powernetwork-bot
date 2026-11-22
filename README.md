@@ -4,7 +4,7 @@
 
 A Telegram bot designed for onboarding and managing members of a networking community: educational onboarding videos, an introduction form, automated member showcase publishing to group topics, and a coaching system. This is a personal project, built to show off Telegram bot development skills.
 
-🤖 **Try the bot:** [@your_bot_username](https://t.me/your_bot_username) <!-- TODO: demo bot link -->
+🤖 **Try the bot:** @powernetworktest_bot
 
 ## ✨ Features
 
